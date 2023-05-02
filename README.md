@@ -1,3 +1,7 @@
+<h1 align="center"><b>Hi, I'm Organ13at0r<img src="https://media2.giphy.com/media/hEwnTrYovTP5GHAeZp/giphy.gif" width="55"</b></h1>
+
+<br>
+
 ## About me
 - 😉 I'm a 2-year-experienced system engineer in cyber-security spare.
 - 👨‍💻 Basically, I specialize in Linux, Networks, Python.
