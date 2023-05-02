@@ -1,6 +1,6 @@
-<h1 align="center"><b>Hi, I'm Organ13at0r<img src="https://media2.giphy.com/media/hEwnTrYovTP5GHAeZp/giphy.gif" width="55"</b></h1>
-
-<br>
+<div align="center">
+    <img src="https://capsule-render.vercel.app/api?type=shark&color=auto&height=300&section=header&text=Hi,%20I'm%20Organ13at0r&animation=fadeIn&textSize=200)">
+</div>
 
 ## About me
 - 😉 I'm a 2-year-experienced system engineer in cyber-security spare.
@@ -13,7 +13,7 @@
 ## My TryHackMe Account
 <img src="https://tryhackme-badges.s3.amazonaws.com/Organ13at0r.png" alt="TryHackMe" width="400">
     
-<br><br>
+<br>
 
 ## GitHub Stats 🗺️
 
