@@ -16,12 +16,12 @@
 <br>
 
 ## GitHub Stats 🗺️
-
-### General
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=0rgan13at0r&theme=tokyonight&show_icons=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
-
-### Most Used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0rgan13at0r&theme=tokyonight&hide_title=true&card_width=465)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+    <img src="https://github-readme-stats.vercel.app/api?username=0rgan13at0r&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats">
+</div>
+<div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0rgan13at0r&theme=tokyonight&card_width=465)](https://github.com/anuraghazra/github-readme-stats">
+</div>
 
 <br>
 
