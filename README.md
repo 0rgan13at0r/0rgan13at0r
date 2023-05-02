@@ -29,7 +29,7 @@
 
 <br>
 
-## Skill
+## Skills
 <p align="center">
 
 - **Languages**
