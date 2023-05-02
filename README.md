@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 <!--
 **0rgan13at0r/0rgan13at0r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## About myself
+- 😉 I'm a 2-year-experienced system engineer in cyber-security spare.
+- 👨‍💻 Basically, I specialize in Linux, Networks, Python.
+- 📚 I'm trying myself in C (for work, of course).
+- 💗 I will be glad if you find time to like my repositories.
