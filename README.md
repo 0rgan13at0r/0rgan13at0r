@@ -9,6 +9,11 @@
 - 💗 I will be glad if you find time to like my repositories.
 
 <br>
+    
+## My TryHackMe Account
+<img src="https://tryhackme-badges.s3.amazonaws.com/Organ13at0r.png" alt="TryHackMe" width="400">
+    
+<br><br>
 
 ## GitHub Stats 🗺️
 
