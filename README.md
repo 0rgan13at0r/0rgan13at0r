@@ -18,7 +18,7 @@
 ## GitHub Stats 🗺️
 <div>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=0rgan13at0r&theme=tokyonight&show_icons=true">
+        <img src="https://github-readme-stats.vercel.app/api?username=0rgan13at0r&theme=tokyonight&show_icons=false">
     </a>
 </div>
 <div>
