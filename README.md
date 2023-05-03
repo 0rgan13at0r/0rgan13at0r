@@ -28,7 +28,7 @@
 ## GitHub Stats 🗺️
 | General | Most Used Languages |
 | --- | --- |
-| ![General](https://github-readme-stats.vercel.app/api?username=0rgan13at0r&theme=tokyonight&show_icons=false) | ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0rgan13at0r&theme=tokyonight&card_width=452)
+| ![General](https://github-readme-stats.vercel.app/api?username=0rgan13at0r&theme=tokyonight&show_icons=false&hide_title=true) | ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0rgan13at0r&theme=tokyonight&card_width=452&hide_title=true)
 
 <br>
 
