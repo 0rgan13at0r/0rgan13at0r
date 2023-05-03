@@ -1,8 +1,8 @@
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=shark&color=66FF66&height=300&section=header&text=Hi,%20I'm%20Organ13at0r%20👋&animation=fadeIn&textSize=200)">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=66FF66&height=300&section=header&text=Hi,%20I'm%20Organ13at0r%20👋&animation=twinkling&textSize=200)">
 </div>
 
-## About me
+## About me 🫠
 - 😉 I'm a **2-year-experienced system engineer in cyber-security spare**.
 - 👨‍💻 Basically, I specialize in **Linux, Networks, Python**.
 - 📚 I'm trying myself in **C** (for work, of course).
@@ -25,10 +25,17 @@
 
 <br>
 
+## Current Project 🚧
+<a href="https://github.com/0rgan13at0r/sshmanager" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=0rgan13at0r&repo=sshmanager&theme=tokyonight">
+</a>
+
+<br><br>
+
 ## GitHub Stats 🗺️
 | General | Most Used Languages |
 | --- | --- |
-| ![General](https://github-readme-stats.vercel.app/api?username=0rgan13at0r&theme=tokyonight&show_icons=false&hide_title=true) | ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0rgan13at0r&theme=tokyonight&card_width=452&hide_title=true)
+| ![General](https://github-readme-stats.vercel.app/api?username=0rgan13at0r&theme=tokyonight&show_icons=true&hide_title=true&rank_icon=github) | ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0rgan13at0r&theme=tokyonight&card_width=452&hide_title=true&layout=compact)
 
 <br>
 
