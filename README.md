@@ -15,10 +15,10 @@
         <img src="https://tryhackme-badges.s3.amazonaws.com/Organ13at0r.png" alt="TryHackMe" width="300">
         <h4>Badges</h4>
         <ul>
-            <li><a href="https://tryhackme.com/Organ13at0r/badges/terminaled" target="_blank">cat linux.txt</li>
-            <li><a href="https://tryhackme.com/Organ13at0r/badges/security-awareness" target="_blank">Security Awareness</li>
-            <li><a href="https://tryhackme.com/Organ13at0r/badges/intro-to-pentesting" target="_blank">Pentensint Principles</li>
-            <li><a href="https://tryhackme.com/Organ13at0r/badges/web-fund" target="_blank">Webbed</li>
+            <li><a href="https://tryhackme.com/Organ13at0r/badges/terminaled" target="_blank">cat linux.txt</a></li>
+            <li><a href="https://tryhackme.com/Organ13at0r/badges/security-awareness" target="_blank">Security Awareness</a></li>
+            <li><a href="https://tryhackme.com/Organ13at0r/badges/intro-to-pentesting" target="_blank">Pentensint Principles</a></li>
+            <li><a href="https://tryhackme.com/Organ13at0r/badges/web-fund" target="_blank">Webbed</a></li>
         </ul>
     </p>
 </details>
