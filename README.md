@@ -9,7 +9,7 @@
 - 💗 I will be glad if you find time to like my repositories.
 
 <details>
-    <summary><b>TryHackMe Account</b></summary>
+    <summary><b>🐱‍💻 TryHackMe Account</b></summary>
     <p>
         <h4>General</h4>
         <img src="https://tryhackme-badges.s3.amazonaws.com/Organ13at0r.png" alt="TryHackMe" width="300">
@@ -26,20 +26,13 @@
 <br>
 
 ## GitHub Stats 🗺️
-<div>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=0rgan13at0r&theme=tokyonight&show_icons=false">
-    </a>
-</div>
-<div>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0rgan13at0r&theme=tokyonight&card_width=452">
-    </a>
-</div>
+| General | Most Used Languages |
+| --- | --- |
+| ![General](https://github-readme-stats.vercel.app/api?username=0rgan13at0r&theme=tokyonight&show_icons=false) | ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0rgan13at0r&theme=tokyonight&card_width=452)
 
 <br>
 
-## Technologies and Tools
+## Technologies and Tools 🧰
 <p align="center">
 
 - **Languages**
