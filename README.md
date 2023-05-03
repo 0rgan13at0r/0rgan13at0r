@@ -3,9 +3,9 @@
 </div>
 
 ## About me
-- 😉 I'm a 2-year-experienced system engineer in cyber-security spare.
-- 👨‍💻 Basically, I specialize in Linux, Networks, Python.
-- 📚 I'm trying myself in C (for work, of course).
+- 😉 I'm a **2-year-experienced system engineer in cyber-security spare**.
+- 👨‍💻 Basically, I specialize in **Linux, Networks, Python**.
+- 📚 I'm trying myself in **C** (for work, of course).
 - 💗 I will be glad if you find time to like my repositories.
 
 <br>
@@ -17,10 +17,14 @@
 
 ## GitHub Stats 🗺️
 <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=0rgan13at0r&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=0rgan13at0r&theme=tokyonight&show_icons=true">
+    </a>
 </div>
 <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0rgan13at0r&theme=tokyonight&card_width=465)](https://github.com/anuraghazra/github-readme-stats">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0rgan13at0r&theme=tokyonight&card_width=465">
+    </a>
 </div>
 
 <br>
