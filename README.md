@@ -25,12 +25,17 @@
 
 <br>
 
-## Current Project 🚧
-<a href="https://github.com/0rgan13at0r/sshmanager" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=0rgan13at0r&repo=sshmanager&theme=tokyonight">
-</a>
+## Current Projects 🚧
+<p>
+    <a href="https://github.com/0rgan13at0r/sshmanager" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=0rgan13at0r&repo=sshmanager&theme=tokyonight">
+    </a><br><br>
+    <a href="https://github.com/0rgan13at0r/linux" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=0rgan13at0r&repo=linux&theme=tokyonight">
+    </a>
+</p>
 
-<br><br>
+<br>
 
 ## GitHub Stats 🗺️
 | General | Most Used Languages |
