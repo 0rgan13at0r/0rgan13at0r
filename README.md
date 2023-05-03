@@ -9,7 +9,7 @@
 - 💗 I will be glad if you find time to like my repositories.
 
 <details>
-    <summary><b>TryHackMe Account</b></summary><br>
+    <summary><b>TryHackMe Account</b></summary>
     <p>
         <h4>General</h4>
         <img src="https://tryhackme-badges.s3.amazonaws.com/Organ13at0r.png" alt="TryHackMe" width="300">
@@ -39,7 +39,7 @@
 
 <br>
 
-## Skills
+## Technologies and Tools
 <p align="center">
 
 - **Languages**
@@ -63,7 +63,7 @@
     
 <br>
     
-## Contacts
+## Follow Me
 <a href="https://t.me/found101" target="_blank">
   <img src="https://img.shields.io/badge/Telegram-%2326A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white">
 </a>
