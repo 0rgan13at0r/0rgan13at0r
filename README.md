@@ -6,7 +6,7 @@
 - 😉 I'm a **2-year-experienced system engineer in cyber-security spare**.
 - 👨‍💻 Basically, I specialize in **Linux, Networks, Python**.
 - 📚 I'm trying myself in **C** (for work, of course).
-- 💗 I will be glad if you find time to like my repositories.
+- 💗 I will be glad if you find time to rate my repositories.
 
 <details>
     <summary><b>🐱‍💻 TryHackMe Account</b></summary>
