@@ -63,7 +63,7 @@
 
     ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
     <a href="https://github.com/0rgan13at0r" target="_blank"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"></a>
-    ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+    <a href="https://hub.docker.com" target="_blank"><img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Hub"></a>
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
     ![Terminal](https://img.shields.io/badge/Terminal-%23241F31.svg?style=for-the-badge&logo=gnome-terminal&logoColor=white)
 </p>
