@@ -12,7 +12,9 @@
     <summary><b>🐱‍💻 TryHackMe Account</b></summary>
     <p>
         <h4>General</h4>
-        <img src="https://tryhackme-badges.s3.amazonaws.com/Organ13at0r.png" alt="TryHackMe" width="300">
+        <a href="https://tryhackme.com" target="_blank">
+            <img src="https://tryhackme-badges.s3.amazonaws.com/Organ13at0r.png" alt="TryHackMe" width="300">
+        </a>
         <h4>Badges</h4>
         <ul>
             <li><a href="https://tryhackme.com/Organ13at0r/badges/terminaled" target="_blank">cat linux.txt</a></li>
