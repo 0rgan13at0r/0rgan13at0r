@@ -70,7 +70,7 @@
     
 <br>
     
-## Follow Me
+## Contact Me
 <a href="https://t.me/found101" target="_blank">
   <img src="https://img.shields.io/badge/Telegram-%2326A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white">
 </a>
