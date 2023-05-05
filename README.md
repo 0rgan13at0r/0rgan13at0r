@@ -78,6 +78,7 @@
 <br>
 
 ## Donates
-<a href="3Eb5Hc59GerqYNBDnhPfdNJ1fWSM2w51iC">
-    <img src="https://img.shields.io/badge/Bitcoin%203Eb5Hc59GerqYNBDnhPfdNJ1fWSM2w51iC-%23F7931A.svg?style=for-the-badge&logo=bitcoin&logoColor=white">
-</a> 
+<div>
+    <b>Bitcoin</b>: 3Eb5Hc59GerqYNBDnhPfdNJ1fWSM2w51iC<br>
+    <b>Ethereum</b>: 0x06EA9EED7383a6aaD3d79d576eb859875DCC737D
+</div> 
