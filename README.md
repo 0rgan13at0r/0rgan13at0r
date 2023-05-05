@@ -74,3 +74,10 @@
 <a href="https://t.me/found101" target="_blank">
   <img src="https://img.shields.io/badge/Telegram-%2326A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white">
 </a>
+
+<br>
+
+## Donates
+<a href="3Eb5Hc59GerqYNBDnhPfdNJ1fWSM2w51iC">
+    <img src="https://img.shields.io/badge/Bitcoin%203Eb5Hc59GerqYNBDnhPfdNJ1fWSM2w51iC-%23F7931A.svg?style=for-the-badge&logo=bitcoin&logoColor=white">
+</a> 
