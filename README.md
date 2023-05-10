@@ -74,11 +74,3 @@
 <a href="https://t.me/found101" target="_blank">
   <img src="https://img.shields.io/badge/Telegram-%2326A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white">
 </a>
-
-<br>
-
-## Donates
-<div>
-    <b>Bitcoin</b>: 3Eb5Hc59GerqYNBDnhPfdNJ1fWSM2w51iC<br>
-    <b>Ethereum</b>: 0x06EA9EED7383a6aaD3d79d576eb859875DCC737D
-</div> 
