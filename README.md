@@ -32,10 +32,6 @@
     <a href="https://github.com/0rgan13at0r/sshmanager" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=0rgan13at0r&repo=sshmanager&theme=tokyonight">
     </a><br><br>
-    <a href="https://github.com/0rgan13at0r/linux" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=0rgan13at0r&repo=linux&theme=tokyonight">
-    </a>
-</p>
 
 <br>
 
@@ -53,7 +49,6 @@
 
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
     ![Bash](https://img.shields.io/badge/Bash-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-    ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
     
 - **OS**
 
@@ -67,10 +62,3 @@
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
     ![Terminal](https://img.shields.io/badge/Terminal-%23241F31.svg?style=for-the-badge&logo=gnome-terminal&logoColor=white)
 </p>
-    
-<br>
-    
-## Contact Me
-<a href="https://t.me/found101" target="_blank">
-  <img src="https://img.shields.io/badge/Telegram-%2326A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white">
-</a>
